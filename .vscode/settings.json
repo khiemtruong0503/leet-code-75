@@ -13,6 +13,14 @@
         "set": "cpp",
         "xhash": "cpp",
         "iterator": "cpp",
-        "xmemory": "cpp"
+        "xmemory": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "stack": "cpp",
+        "initializer_list": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "forward_list": "cpp"
     }
 }
